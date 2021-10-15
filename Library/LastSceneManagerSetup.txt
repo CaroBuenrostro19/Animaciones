@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Pruebas_Animaci\xF3n.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
